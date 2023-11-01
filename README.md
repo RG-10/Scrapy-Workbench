@@ -60,7 +60,7 @@ Python is often included in Linux distributions. To install Python on your Linux
       sudo apt update
       sudo apt install python3
 
-Installing Scrapy
+## Installing Scrapy
 Once you have Python set up, you can install Scrapy. Here are the steps to install Scrapy on your system:
 
 Open your command prompt or terminal.
@@ -74,19 +74,19 @@ After the installation is complete, you can verify that Scrapy is installed by r
        Scrapy --version
        This should display the installed Scrapy version.
 
-Documentation 📚
+## Documentation 📚
 For in-depth information on how to use Scrapy Workbench, please refer to the official documentation. 📜
 
-Examples 🚀
+## Examples 🚀
 Explore our collection of example projects in the examples directory. These examples demonstrate how to use Scrapy and Selenium for various scraping tasks.
 
-Contributing 🤝
+## Contributing 🤝
 We welcome contributions from the community. If you have ideas for improvement, bug reports, or want to contribute code, please see our contribution guidelines.
 
-License 📝
+## License 📝
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact ✉️
+## Contact ✉️
 If you have any questions or need assistance, please don't hesitate to contact Usama. 📧
 
 Happy scraping with Scrapy Workbench! 🎉 
