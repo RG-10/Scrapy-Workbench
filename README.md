@@ -83,16 +83,16 @@ You should see the installed Python version.
 macOS:
 macOS usually comes with Python pre-installed. To check the installed Python version, open the Terminal and run:
 
-bash
-python --version
+    ```bash
+       python --version
 If it's not installed or you want to use a different version, consider using a package manager like Homebrew or downloading Python from the official website.
 
 Linux:
 Python is often included in Linux distributions. To install Python on your Linux distribution, use your package manager. For example, on Ubuntu, you can use:
 
-bash
-sudo apt update
-sudo apt install python3
+      ```bash
+      sudo apt update
+      sudo apt install python3
 
 Installing Scrapy
 Once you have Python set up, you can install Scrapy. Here are the steps to install Scrapy on your system:
@@ -101,12 +101,11 @@ Open your command prompt or terminal.
 
 Run the following command to install Scrapy using pip:
 
-bash
+```bash
 pip install scrapy
 After the installation is complete, you can verify that Scrapy is installed by running:
 
-bash
-scrapy --version
+Scrapy --version
 This should display the installed Scrapy version.
 
 Documentation 📚
