@@ -83,9 +83,6 @@ Explore our collection of example projects in the examples directory. These exam
 ## Contributing 🤝
 We welcome contributions from the community. If you have ideas for improvement, bug reports, or want to contribute code, please see our contribution guidelines.
 
-## License 📝
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact ✉️
 If you have any questions or need assistance, please don't hesitate to contact Usama. 📧
 
